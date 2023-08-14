@@ -43,7 +43,7 @@ function Menu() {
       </li>
 
       <li className="nav-item">
-        <Link className="nav-link collapsed" href="https://alissa-ia-safe.netlify.app">
+        <Link className="nav-link collapsed" href="https://alissa-ia.netlify.app">
           <i className="bi bi-question vert" />
           <span>Tutoriel</span>
         </Link>
