@@ -33,7 +33,7 @@ export default withAuth(function Fautes() {
     SetDone(false);
     // setLoader(true)
 
-    fetch("https://alissabackendfluidbysamnk.onrender.com/api/reformuler", {
+    fetch("https://alissabackendfluidbysamnk-mbrn.onrender.com/api/reformuler", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({

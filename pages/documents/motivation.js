@@ -50,7 +50,7 @@ export default withAuth(function Fautes() {
     
 
     //console.log(updateData);
-    fetch("https://alissabackendfluidbysamnk.onrender.com/api/motivation", {
+    fetch("https://alissabackendfluidbysamnk-mbrn-mbrn.onrender.com/api/motivation", {
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({

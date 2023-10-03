@@ -39,7 +39,7 @@ export default function Fautes() {
 
     
 
-    fetch("https://alissabackendfluidbysamnk.onrender.com/api/faute", {
+    fetch("https://alissabackendfluidbysamnk-mbrn.onrender.com/api/faute", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({

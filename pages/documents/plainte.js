@@ -44,7 +44,7 @@ export default withAuth(function Fautes() {
     // setLoader(true)
 
     //console.log(updateData);
-    fetch("https://alissabackendfluidbysamnk.onrender.com/api/plainte", {
+    fetch("https://alissabackendfluidbysamnk-mbrn.onrender.com/api/plainte", {
       method: "POST",
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
